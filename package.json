@@ -10,12 +10,4 @@
     "express": "^4.18.2"
   }
 }
-{
-  # check that push to git works
-}
-
-{
-
-  # check that it pushes to web app
-}
 
